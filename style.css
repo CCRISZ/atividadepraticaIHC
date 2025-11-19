@@ -1,0 +1,16 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card-title {
+  font-weight: bold;
+  color: #0d6efd;
+}
+
+.btn-success {
+  background-color: #28a745 !important;
+}
+
+footer {
+  font-size: 0.9rem;
+}
